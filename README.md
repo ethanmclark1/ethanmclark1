@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am an enthusiastic individual eager to delve int
 My aim is to collaborate with like-minded individuals and make valuable contributions to projects that promote positive change and benefit society as a whole.
 
 ### About Me
-🔭 Currently, I'm a graduate student in the Cooperative Robotic Systems lab at Arizona State University, where I'm focused on developing cooperative multi-agent systems.  
+🔭 Currently, I'm a graduate student in the [Cooperative Robotic Systems lab](https://www.public.asu.edu/~yzhan442/CRS.html) at Arizona State University, where I'm focused on developing cooperative multi-agent systems.  
 🌱 I'm always eager to expand my knowledge and skills in the field of AI. Some topics that I'm currently exploring include offline reinforcement learning, unsupervised learning, and generative AI (of course).  
 📚 I'm also an avid reader and always on the lookout for new book recommendations. Ask me about my recent favorite book or suggest one that you've enjoyed!  
 🍄 In addition to AI and reading, I'm also interested in bonsai and mushroom cultivating.  
@@ -16,7 +16,7 @@ My aim is to collaborate with like-minded individuals and make valuable contribu
 * Deep Learning
 * Python
 * PyTorch
-* CARLA Simulator
+* CARLA simulator
 
 ### Projects
 * [ma-cdl](https://github.com/ethanmclark1/ma-cdl): A work-in-progress project focused on the emergence of language in cooperative multi-agent systems.
