@@ -20,6 +20,7 @@ My aim is to collaborate with like-minded individuals and make valuable contribu
 
 ### Projects
 * [ma-cdl](https://github.com/ethanmclark1/ma-cdl): A work-in-progress project focused on the emergence of language in cooperative multi-agent systems.
+* [sig8](https://github.com/ethanmclark1/sig8): A work-in-progress multi-agent environment resembling a Lewis Signaling Game. 
 * [carla-aebs](https://github.com/ethanmclark1/carla_aebs): A prototype implementation of an autonomous emergency braking system (AEBS) using the open-source CARLA simulator for testing and developing autonomous driving algorithms.  
 * [rl-toolkit](https://github.com/ethanmclark1/rl_toolkit): A collection of tools, environments, and examples for reinforcement learning, including implementations of various deep reinforcement learning algorithms, such as DQN, A2C, and PPO.  
 * [geat](https://github.com/ethanmclark1/geat): A collection of genetic and evolutionary algorithms, examples, and documentation for solving optimization problems.   
