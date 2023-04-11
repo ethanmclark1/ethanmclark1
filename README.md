@@ -1,7 +1,5 @@
 # Join Me on My Journey of Open-Source AI Research!
-<p align="center">
 ![counter](https://end43h9igsa8483.m.pipedream.net)
-</p>
 
 Hi there, I'm Ethan Clark 👋  
 Welcome to my GitHub profile! I am an enthusiastic individual eager to delve into AI research within the open-source community.  
